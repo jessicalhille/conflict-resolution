@@ -1,3 +1,3 @@
 # conflict-resolution
 
-## this is not a subheading
+## this is a subheading
